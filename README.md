@@ -1,4 +1,4 @@
-# lata.github.io
+# PROJETO LATA
 
 Ter um computador hoje não é luxo, é ferramenta básica de sobrevivência para quem precisa estudar e/ou trabalhar. Mas quando o orçamento é apertado, comprar a primeira máquina se torna um campo minado.
 
